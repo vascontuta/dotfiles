@@ -118,4 +118,5 @@ export VIRTUALENVWRAPPER_VIRTUALENV=/usr/bin/virtualenv
 setxkbmap -layout us -variant colemak -option caps:capslock
 
 alias cat="batcat -p"
+alias ds="docker ps -a"
 
