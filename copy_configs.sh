@@ -5,7 +5,7 @@ declare -A arr
 arr["$HOME/.bashrc"]="./"
 arr["$HOME/.zshrc"]="."
 arr["$HOME/.vimrc"]="."
-arr["$HOME/.gitconfig"]="."
+# arr["$HOME/.gitconfig"]="."
 arr["$HOME/.config/nvim/init.lua"]=".config/nvim/init.lua"
 
 #arr+=( ["key2"]=val2 ["key3"]=val3 )
